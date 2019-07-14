@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\bilha\\Desktop\\ExoPlayer-Materials\\MetalApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bilha\\.gradle\\caches\\transforms-2\\files-2.1\\3438195557b0a159a4754d37885918f7\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,5,8,11,15,18,21,25,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,225,413,629,798,980,1190,1356,1516",
+                        "endLines": "4,7,10,14,17,20,24,28,36",
+                        "endColumns": "12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "220,408,624,793,975,1185,1351,1511,1964"
+                    }
+                }
+            ]
+        }
+    ]
+}

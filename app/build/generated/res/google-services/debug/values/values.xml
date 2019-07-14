@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">297234899278-83gunnsnu2veqq07r9u9ghnhpshieiog.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://metalapp-14f49.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">297234899278</string>
+    <string name="google_api_key" translatable="false">AIzaSyDtk45jYQf0duSbGMytf1YpSnTeZf-U_Qo</string>
+    <string name="google_app_id" translatable="false">1:297234899278:android:9e082dd995623416</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDtk45jYQf0duSbGMytf1YpSnTeZf-U_Qo</string>
+    <string name="google_storage_bucket" translatable="false">metalapp-14f49.appspot.com</string>
+    <string name="project_id" translatable="false">metalapp-14f49</string>
+</resources>

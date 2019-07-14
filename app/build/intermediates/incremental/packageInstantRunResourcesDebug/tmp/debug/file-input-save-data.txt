@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 10 19:02:53 IDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\bilha\\Desktop\\ExoPlayer-Materials\\MetalApp\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1
