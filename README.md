@@ -2,4 +2,4 @@
 
 Metal App
 
-The app to get you hooked on Metal, go on, venture inside.
+An 'Android' app to get you hooked on Metal, go on, venture inside.
